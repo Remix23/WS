@@ -7,7 +7,7 @@ import os.path
 
 def send ():
     email = 'datafromws@gmail.com'
-    password = 'WS12345!'
+    password = 'WSproject123'
     send_to_email = 'datafromws@gmail.com'
     subject = 'Data from weather station' # The subject line
     message = 'Actual data from weather station'
